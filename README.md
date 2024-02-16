@@ -26,10 +26,15 @@ The Inner Product column on Immediate Mode GUIs:
 ## Ryan Fleury
 
 [UI Series -- Table of Contents](https://www.rfleury.com/p/ui-series-table-of-contents)  
+[The RAD Debugger Project](https://github.com/EpicGames/raddebugger)  
+
+* Specifically see the `ui` & `df_gfx` modules. There are problably more important ones to see but these are the first to reference.
 
 ## Handmade
 
+[Podcast Episode 3: Micha Mettke](https://handmade.network/podcast/ep/c1174949-adc4-492d-89b5-ca73dea4ff16)
 [January Meetup - Writing an IMGUI](https://youtu.be/wsJ8Y1HO250)  
+[vui](https://github.com/heroseh/vui)
 
 ## Tscoding's Related Content:
 
@@ -43,6 +48,7 @@ The Inner Product column on Immediate Mode GUIs:
 
 ## Other
 
+[DPI-aware IMGUI](https://web.archive.org/web/20220313014325/https://ourmachinery.com/post/dpi-aware-imgui/)
 [Imgui PPT](https://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf)  
 [Jari Komppa's Article](https://solhsa.com/imgui/)  
 [Unity Blog - Going deep with IMGUI and Editor customization](https://blog.unity.com/engine-platform/imgui-and-editor-customization)  
@@ -50,6 +56,7 @@ The Inner Product column on Immediate Mode GUIs:
 
 ## Relevant Libraries:
 
+[boto-ui](https://github.com/talesm/boto-ui)  
 [Dear Imgui](https://github.com/ocornut/imgui)  
 [eui](https://github.com/erysdren/eui)  
 [Kiss SDL](https://github.com/actsl/kiss_sdl)  
