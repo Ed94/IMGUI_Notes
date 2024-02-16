@@ -13,6 +13,14 @@ The Inner Product column on Immediate Mode GUIs:
 [Immediate-Mode Graphical User Interfaces - 2005](https://www.youtube.com/watch?v=Z1qyvQsjK5Y)  
 [Original Molly Rocket IMGUI forum](https://web.archive.org/web/20140110175254/https://mollyrocket.com/forums/viewforum.php?f=10)  
 
+## Handmade
+
+[Podcast Episode 3: Micha Mettke](https://handmade.network/podcast/ep/c1174949-adc4-492d-89b5-ca73dea4ff16)  
+[January Meetup - Writing an IMGUI](https://youtu.be/wsJ8Y1HO250)  
+
+* [PPT](https://www.slideshare.net/HenryRose9/implementing-imgui)
+* [vui](https://github.com/heroseh/vui)
+
 ## Johannes Norneby
 
 [Imgui Article](https://www.johno.se/book/imgui.html)  
@@ -29,12 +37,6 @@ The Inner Product column on Immediate Mode GUIs:
 [The RAD Debugger Project](https://github.com/EpicGames/raddebugger)  
 
 * Specifically see the `ui` & `df_gfx` modules. There are problably more important ones to see but these are the first to reference.
-
-## Handmade
-
-[Podcast Episode 3: Micha Mettke](https://handmade.network/podcast/ep/c1174949-adc4-492d-89b5-ca73dea4ff16)
-[January Meetup - Writing an IMGUI](https://youtu.be/wsJ8Y1HO250)  
-[vui](https://github.com/heroseh/vui)
 
 ## Tscoding's Related Content:
 
