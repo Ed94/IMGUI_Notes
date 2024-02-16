@@ -2,8 +2,6 @@
 
 Just a place I'm sharing all the notes and research I have on immediate mode user interfaces
 
-# General
-
 ## Sean Barret
 
 The Inner Product column on Immediate Mode GUIs:  
@@ -14,6 +12,11 @@ The Inner Product column on Immediate Mode GUIs:
 
 [Immediate-Mode Graphical User Interfaces - 2005](https://www.youtube.com/watch?v=Z1qyvQsjK5Y)  
 [Original Molly Rocket IMGUI forum](https://web.archive.org/web/20140110175254/https://mollyrocket.com/forums/viewforum.php?f=10)  
+
+## Johannes Norneby
+
+[Imgui Article](https://www.johno.se/book/imgui.html)  
+[Trygve Reenskaug vs IMGUI](https://johno.se/book/trygve_vs_imgui.html)  
 
 ## Jonathan Blow
 
@@ -40,15 +43,18 @@ The Inner Product column on Immediate Mode GUIs:
 
 ## Other
 
-[Johno's Imgui Article](https://www.johno.se/book/imgui.html)  
 [Imgui PPT](https://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf)  
 [Jari Komppa's Article](https://solhsa.com/imgui/)  
+[Unity Blog - Going deep with IMGUI and Editor customization](https://blog.unity.com/engine-platform/imgui-and-editor-customization)  
 [Zero Memory Widget](https://perso.univ-lyon1.fr/thierry.excoffier/ZMW/)  
+
+## Relevant Libraries:
+
+[Dear Imgui](https://github.com/ocornut/imgui)  
 [Kiss SDL](https://github.com/actsl/kiss_sdl)  
-
-# Relevant Libraries:
-
 [layout](https://github.com/randrew/layout)  
-C: [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  
-C++: [Dear Imgui](https://github.com/ocornut/imgui)  
-Odin's MicroUI: [MicroUI](https://github.com/odin-lang/Odin/tree/master/vendor/microui)  
+[LiteGui](https://github.com/UnSkyToo/LiteGui)  
+[MicroUI](https://github.com/odin-lang/Odin/tree/master/vendor/microui)  
+[Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  
+[raygui](https://github.com/raysan5/raygui)  
+[zeroxer's IMGUI](https://github.com/zeroxer/IMGUI)  
