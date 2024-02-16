@@ -51,10 +51,15 @@ The Inner Product column on Immediate Mode GUIs:
 ## Relevant Libraries:
 
 [Dear Imgui](https://github.com/ocornut/imgui)  
+[eui](https://github.com/erysdren/eui)  
 [Kiss SDL](https://github.com/actsl/kiss_sdl)  
 [layout](https://github.com/randrew/layout)  
 [LiteGui](https://github.com/UnSkyToo/LiteGui)  
-[MicroUI](https://github.com/odin-lang/Odin/tree/master/vendor/microui)  
+[microui](https://github.com/rxi/microui)  
+[microui - Odin](https://github.com/odin-lang/Odin/tree/master/vendor/microui)  
 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  
+[Quarks](https://github.com/Immediate-Mode-UI/Quarks)  
 [raygui](https://github.com/raysan5/raygui)  
+[wtk](https://github.com/origamicomet/wtk)  
 [zeroxer's IMGUI](https://github.com/zeroxer/IMGUI)  
+[zgui](https://github.com/zxvnme/zgui)  
