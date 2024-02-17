@@ -6,7 +6,7 @@ Just a place I'm sharing all the notes and research I have on immediate mode use
 
 The Inner Product column on Immediate Mode GUIs:  
 [Game Developer - September 2005 (Page 34-36)](assets/GDM_September_2005.pdf)  
-[Sample Implementation](https://silverspaceship.com/inner/imgui/)  
+[Sample Implementation](https://silverspaceship.com/i	nner/imgui/)  
 
 ## Casey Muratori
 
@@ -24,6 +24,9 @@ The Inner Product column on Immediate Mode GUIs:
 ## Johannes Norneby
 
 [Imgui Article](https://www.johno.se/book/imgui.html)  
+
+* [PPT](https://johno.se/book/imgui.pdf)
+
 [Trygve Reenskaug vs IMGUI](https://johno.se/book/trygve_vs_imgui.html)  
 
 ## Jonathan Blow
@@ -43,10 +46,11 @@ The Inner Product column on Immediate Mode GUIs:
 [Immediate UI for My Game in C++](https://youtu.be/8e56I1z9cn4)  
 [Improving Immediate UI for My Game](https://youtu.be/-FYKw5rH2aU)  
 [Making Reactive GUI From Scratch with Just Rectangles](https://youtu.be/-e_yyggsh_o)  
+
+[imhui](https://github.com/tsoding/imhui)  
 [OpenGL Text Rendering for My Immediate UI Library — Offline Stream #02](https://youtu.be/mq3UXqPmBE8)  
 [We Need to Bring GUI Libraries Back! — Offline Stream #09](https://youtu.be/wWnjffo6gHc)  
 [When UI Library is Bad — Offline Stream #13](https://youtu.be/yUGvLUPtgXY)  
-[imhui](https://github.com/tsoding/imhui)  
 
 ## Other
 
