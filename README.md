@@ -6,7 +6,7 @@ Just a place I'm sharing all the notes and research I have on immediate mode use
 
 The Inner Product column on Immediate Mode GUIs:  
 [Game Developer - September 2005 (Page 34-36)](assets/GDM_September_2005.pdf)  
-[Sample Implementation](https://silverspaceship.com/i	nner/imgui/)  
+[Sample Implementation](https://silverspaceship.com/inner/imgui/)  
 
 ## Casey Muratori
 
@@ -33,6 +33,11 @@ The Inner Product column on Immediate Mode GUIs:
 
 [Improving Our Immediate-Mode UI Stuff (Part 1)](https://youtu.be/gPKDnu5QaZk)  
 [Improving Our Immediate-Mode UI Stuff (Part 2)](https://www.youtube.com/watch?v=upURrmzpD5Q)  
+
+## nakst
+
+[Writing a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)  
+
 
 ## Ryan Fleury
 
