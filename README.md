@@ -38,6 +38,10 @@ The Inner Product column on Immediate Mode GUIs:
 
 [Writing a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)  
 
+## Nic Barker
+
+[clay introduction (YT)](https://www.youtube.com/watch?v=DYWTw19_8r4)
+[clay](https://github.com/nicbarker/clay)
 
 ## Ryan Fleury
 
