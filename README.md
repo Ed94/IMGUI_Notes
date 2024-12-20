@@ -40,7 +40,7 @@ The Inner Product column on Immediate Mode GUIs:
 
 ## Nic Barker
 
-[clay introduction (YT)](https://www.youtube.com/watch?v=DYWTw19_8r4)
+[clay introduction (YT)](https://www.youtube.com/watch?v=DYWTw19_8r4)  
 [clay](https://github.com/nicbarker/clay)
 
 ## Ryan Fleury
