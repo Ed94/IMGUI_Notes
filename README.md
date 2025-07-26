@@ -93,7 +93,7 @@ The Inner Product column on Immediate Mode GUIs:
 [LiteGui](https://github.com/UnSkyToo/LiteGui)  
 [microui](https://github.com/rxi/microui)  
 [microui - Odin](https://github.com/odin-lang/Odin/tree/master/vendor/microui)  
-[Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
+[Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  
 [PanGui](https://www.pangui.io)  
 [Quarks](https://github.com/Immediate-Mode-UI/Quarks)  
 [raygui](https://github.com/raysan5/raygui)  
