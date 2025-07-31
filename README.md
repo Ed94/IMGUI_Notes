@@ -83,6 +83,7 @@ The Inner Product column on Immediate Mode GUIs:
 [Jari Komppa's Article](https://solhsa.com/imgui/)  
 [Unity Blog - Going deep with IMGUI and Editor customization](https://blog.unity.com/engine-platform/imgui-and-editor-customization)  
 [Zero Memory Widget](https://perso.univ-lyon1.fr/thierry.excoffier/ZMW/)  
+[ARC - Upcoming C Library](https://youtu.be/UULQyRKc6sM)  
 
 ## Relevant Libraries
 
