@@ -40,6 +40,8 @@ The Inner Product column on Immediate Mode GUIs:
 [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)  
 [clay](https://github.com/nicbarker/clay)  
 
+* [Affine Notes](https://app.affine.pro/workspace/3fc9d28f-0ee6-4e4c-9675-79230706f341/zOvSyT1f18?mode=edgeless)
+
 [Why Use C for UI Library? | Nic Barker](https://youtu.be/8ZlN07IvoPI)  
 
 ## Omar Cornut
